@@ -5,6 +5,6 @@
   <input type="text" class="fw-bold form-control" name="nom_cat" placeholder="Ajouter Catégories" aria-describedby="basic-addon1">
 </div>
 <div class="fw-bold input-group w-90 mb-2 m-auto">
-  <input type="submit" class="mt-2 btn btn-primary" name="ajouter_cat" value="Ajouter" aria-describedby="basic-addon1">
+  <input type="submit" class="mt-2 btn btn-ajouter" name="ajouter_cat" value="Ajouter" aria-describedby="basic-addon1">
 </div>
 </form>
