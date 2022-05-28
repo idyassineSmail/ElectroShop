@@ -1,0 +1,38 @@
+.navPrincipal{
+    font-weight:700;
+}
+.logo{
+    width: 50%;
+    height: auto;
+    padding: 0;
+}
+.card-img-top{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+.card-body{
+    height: 200px;
+    object-fit: contain;
+}
+.bg-blue-black{
+    background-color: rgb(4, 13, 47);
+}
+.bg-black-white{
+    background-color: rgba(2, 11, 47, 0.811);
+}
+footer a{
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(4, 13, 47);
+    margin: auto 20px;
+}
+.list{
+    text-align: center;
+    width: max-content;
+    padding: 0;
+    margin: 0;
+}
+.list li{
+    display: inline;
+}
